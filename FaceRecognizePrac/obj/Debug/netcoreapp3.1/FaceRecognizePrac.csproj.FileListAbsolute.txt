@@ -1,0 +1,16 @@
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\bin\Debug\netcoreapp3.1\FaceRecognizePrac.exe
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\bin\Debug\netcoreapp3.1\FaceRecognizePrac.deps.json
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\bin\Debug\netcoreapp3.1\FaceRecognizePrac.runtimeconfig.json
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\bin\Debug\netcoreapp3.1\FaceRecognizePrac.runtimeconfig.dev.json
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\bin\Debug\netcoreapp3.1\FaceRecognizePrac.dll
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\bin\Debug\netcoreapp3.1\FaceRecognizePrac.pdb
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\obj\Debug\netcoreapp3.1\FaceRecognizePrac.csproj.AssemblyReference.cache
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\obj\Debug\netcoreapp3.1\FaceRecognizePrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\obj\Debug\netcoreapp3.1\FaceRecognizePrac.AssemblyInfoInputs.cache
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\obj\Debug\netcoreapp3.1\FaceRecognizePrac.AssemblyInfo.cs
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\obj\Debug\netcoreapp3.1\FaceRecognizePrac.csproj.CoreCompileInputs.cache
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\obj\Debug\netcoreapp3.1\FaceRecognizePrac.csproj.CopyComplete
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\obj\Debug\netcoreapp3.1\FaceRecognizePrac.dll
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\obj\Debug\netcoreapp3.1\FaceRecognizePrac.pdb
+C:\Users\hsu\source\repos\FaceRecognizePrac\FaceRecognizePrac\obj\Debug\netcoreapp3.1\FaceRecognizePrac.genruntimeconfig.cache
